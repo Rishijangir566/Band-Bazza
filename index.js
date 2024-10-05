@@ -44,7 +44,3 @@ soundItem.addEventListener("keyup",function(e){
 }) 
 
 
-
-
-
-
